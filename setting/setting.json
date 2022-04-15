@@ -1,9 +1,9 @@
 {
 "self": false,
-"autoread": false,
-"autoketik": false,
+"autoread": true,
+"autoketik": true,
 "autovn": false,
-"OwnerNumber": "6288277562022",
+"OwnerNumber": "6288225413262",
 "OwnerName": "RzLModz",
 "BotName": "Who Tod",
 "session": "newbase",
